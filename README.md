@@ -7,7 +7,7 @@
 
 **Your device, your data, your privacy. All 100% Offline.**
 
-[Live Website](https://your-username.github.io/privacy-guardian/) | [Changelog](CHANGELOG.md) | [License](LICENSE) | [Privacy Policy](https://your-username.github.io/privacy-guardian/privacy.html)
+[Live Website](https://ramailo1.github.io/privacy_guardian/) | [Changelog](CHANGELOG.md) | [License](LICENSE) | [Privacy Policy](https://ramailo1.github.io/privacy_guardian/privacy.html)
 
 </div>
 
@@ -40,7 +40,7 @@ Privacy Guardian is a security-focused mobile application that provides real-tim
 
 We believe privacy is a community effort. Even without source access, you can help:
 
-1. **Report Bugs**: Encountered an issue? [Open a ticket](https://github.com/your-username/privacy-guardian/issues).
+1. **Report Bugs**: Encountered an issue? [Open a ticket](https://github.com/ramailo1/privacy_guardian/issues/new).
 2. **Feature Ideas**: Want a new privacy tool? Let us know in the issues!
 3. **Share**: Help others take back control of their device privacy.
 
