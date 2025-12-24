@@ -1,0 +1,13 @@
+# Public Documentation Repository Strategy
+# Ignore everything
+/*
+
+# Allow documentation and repository configuration
+!/docs/
+!/README.md
+!/LICENSE
+!/CHANGELOG.md
+!/.gitignore
+
+# Secondary ignores for allowed folders (if any)
+/docs/**/.DS_Store
